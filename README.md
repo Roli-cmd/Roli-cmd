@@ -17,4 +17,4 @@ I am a passionate **Computer Science Educator** at the Department of Education (
 ---
 
 ### 📈 Current Projects & Research
-* 🛠️ **[Learning Management System](https://github.com):** A robust platform designed to streamline course enrollment, manage user roles, track student assignments, and handle grading efficiently.
+* 🛠️ **[Learning Management System](https://github.com/Roli-cmd/learning-management-system):** A Java-based Learning Management System (LMS) capstone project featuring course enrollment, user roles, assignment tracking, and grade management.
